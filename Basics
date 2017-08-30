@@ -2,6 +2,8 @@ git clone <repo>
 #clone a repo from gitub
 
 git add *
+#or
+git add <file>
 #add all files from local
 
 git commit -m ""
