@@ -14,3 +14,21 @@ git push origin master
 
 git status
 #make sure no additional files are in flux
+
+git pull < >
+#pull current repo or branch
+
+git checkout -b "branch name"
+#create branch
+
+git branch -d "branch name"
+#delete branch
+
+git push origin "branch name"
+#push to repo
+
+git diff "source branch" "target branch"
+#check out branch would like to merge
+
+git merge "branch name"
+#merge branch into another branch
