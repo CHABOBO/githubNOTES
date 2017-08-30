@@ -1,0 +1,37 @@
+Ability to edit via Markdown and formatting toolbar at the righthand side of the screen
+
+
+Headings
+'# The largest heading'
+# The largest heading
+'## The second largest heading'
+## The second largest heading
+'###### The smallest heading'
+###### The smallest heading
+
+Text Formatting
+** ** or  __ __	: BOLD
+* * or _ _ : Italic
+~~ ~~	: Strikethough	
+
+Quotes
+> : Quote text
+#note will indent
+'': quote code
+''' ''': quote large chunk code
+
+Links
+[text](https://blahblah.com/): weblink
+
+Lists
+
+To order lists simply add  number in front of list items
+* : Bullets
+1,2,3 : Ordered
+- : Dash
+
+If you would like to create a hierarchy, TAB
+
+New Paragraph
+
+Just leave a blank line
