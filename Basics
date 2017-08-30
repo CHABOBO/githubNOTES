@@ -1,0 +1,14 @@
+git clone <repo>
+#clone a repo from gitub
+
+git add *
+#add all files from local
+
+git commit -m ""
+#commit changes and make small notation 
+
+git push origin master 
+#push back to repo
+
+git status
+#make sure no additional files are in flux
